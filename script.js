@@ -6,3 +6,12 @@ function changeColors(){
     if(index > colors.length - 1)
     index = 0;
 }
+function changeColorRed(){
+
+}
+function changeColorGreen(){
+
+}
+function changeColorBlue(){
+
+}
